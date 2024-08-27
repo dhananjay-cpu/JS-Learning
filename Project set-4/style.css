@@ -1,0 +1,75 @@
+body{
+    background-color: grey;
+    color: white;
+}
+
+#para1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#para2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#div1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#num{
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#div2{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    padding: 8px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    border-radius: 8px;
+}
+
+#p1{
+    display: flex;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+}
+
+#p2{
+    display: flex;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+} 
+
+#newGame{
+    display: flex;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+} 
+
+.lowOrHigh{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

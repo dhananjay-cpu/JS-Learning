@@ -1,0 +1,22 @@
+
+body{
+    background-color: white;
+}
+
+div{
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    margin: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    background-color: yellow;
+}
+
+.mypara{
+    color: red;
+}

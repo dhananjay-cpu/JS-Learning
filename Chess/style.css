@@ -1,0 +1,43 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+body{
+   text-align: center;
+   height: 100%;
+   width: 100%;
+}
+
+.container{
+   height: 70vh;
+}
+
+.class{
+   display: flex;
+   height: 10vmin;
+   width: 10vmin;
+   border: none;
+   background-color: white;
+   /* border-radius: 1rem; */
+   margin-top: 5px;
+   margin-left: 5px;
+   font-size: 16vmin;
+   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+   color: #b0413e;
+}
+
+.game{
+   display: inline-flex;
+   height: auto;
+   width: 150vmin;
+   justify-content: center;
+}
+
+.rowcol1 .class:nth-child(even) {
+   background-color: black;
+  }
+
+  .rowcol2 .class:nth-child(odd) {
+   background-color: black;
+  }

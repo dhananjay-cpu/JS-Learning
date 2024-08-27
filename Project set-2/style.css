@@ -1,0 +1,54 @@
+body{
+    background-color: grey;
+}
+h1{ 
+    text-align: center;
+}
+
+#form{
+    display: flex; 
+    justify-content: center;
+}
+
+span{
+    text-align: center;
+    background-color: yellow; 
+    margin-bottom: 10px;
+}
+
+#div1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#div2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#div3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5px;
+}
+
+#div4{
+    font-size: 20px;
+    color: red;
+    text-align: center;
+    margin-top: 5px;
+}
+
+#div5{
+    text-align: center;
+}
+
+label{
+    margin: 5px;
+}
